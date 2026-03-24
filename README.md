@@ -5,4 +5,4 @@ Ruhbans repository
 - comit
 - new item will be added
 - just adding items
-- 
+- Adding and removing items
